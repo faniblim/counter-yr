@@ -1,0 +1,50 @@
+.number {
+  margin-top: 15px; 
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  background-color: coral;
+  border: 1px solid darkturquoise;
+  border-radius: 7px;
+  margin-left: 57px;
+  box-shadow: 0 0 5px  darkturquoise;
+}
+
+.panel { 
+   
+  margin: auto;
+  text-align: center;
+}
+
+.inc {
+  margin-top: 10px; 
+  width: 43px;
+  height: 20px;
+  background-color: coral;
+  border: 1px solid darkturquoise;
+  margin-right: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 5px  darkturquoise; 
+  
+}
+
+.inc:hover { background:  darkturquoise; }
+.inc:active {
+  background:  black;
+  box-shadow: 0 3px black inset;}
+
+.reset {
+  cursor: pointer;
+  box-shadow: 0 0 5px  darkturquoise;
+  width: 43px;
+  height: 20px;
+  background-color: coral;
+  border: 1px solid darkturquoise;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+.reset:hover { background:  darkturquoise; }
+.reset:active {
+  background:  black;
+  box-shadow: 0 3px black inset;}
